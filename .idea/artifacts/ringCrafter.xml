@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ringCrafter">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="ringCrafter.jar">
+      <element id="module-output" name="RingCrafter" />
+    </root>
+  </artifact>
+</component>
